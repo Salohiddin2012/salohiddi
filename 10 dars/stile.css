@@ -1,0 +1,41 @@
+/* table{
+    width: 900px;
+    border-collapse: collapse;
+} */
+
+label{
+    text-align: center;
+}
+input{
+    border-radius: 7px;
+}
+form{
+    font-size: 30px;
+    text-align:center;
+    font-size: 40px;
+    background-color: aqua;
+}
+input{
+    font-size: 30px ;
+}
+.fd{
+    font-size: 80px;
+    border-radius: 30px;
+}
+.checkbox{
+    font-size: 30px;
+    
+}
+  .der{
+    
+    border-radius: 15px;
+  }
+.placeholder{
+color: blue;
+}
+table{
+    text-align: center;
+}
+.ter{
+    text-align: center;
+}
